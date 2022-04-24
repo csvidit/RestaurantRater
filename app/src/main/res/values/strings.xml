@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Restaurant Rater</string>
+    <string name="label_breakfast">Breakfast</string>
+    <string name="label_lunch">Lunch</string>
+    <string name="label_dinner">Dinner</string>
+</resources>
